@@ -1,0 +1,12 @@
+merhaba
+
+git config --global user.name
+echo > .gitignore
+git init
+git add index.html
+git commit -m kaydedildi
+
+git status
+git push 
+git pull 
+git log
